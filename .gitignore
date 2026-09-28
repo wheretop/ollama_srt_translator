@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+##忽略不必要的文件
+
+/cache/
+/input/
+/output/
+/__pycache__/

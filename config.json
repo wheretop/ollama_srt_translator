@@ -1,0 +1,14 @@
+{
+  "ollama_url": "http://127.0.0.1:11434/api/generate",
+  "model": "qwen3-8B-Q4-jp-translator:latest",
+  "srt_path": "D:\\Download\\MNGS-061-UC\\MNGS-061-UC.ja.whisperjav.large-v2int8 6GB.srt",
+  "output_path": "C:\\Users\\16175\\Desktop\\123\\ollama_srt_translator\\output",
+  "main_count": 50,
+  "ctx_before": 10,
+  "ctx_after": 10,
+  "max_retries": 3,
+  "retry_wait": 5,
+  "keep_alive": "120m",
+  "timeout_seconds": 3600,
+  "clear_cache": true
+}
